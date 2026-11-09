@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4",
+      "installMode": "copy"
+    },
+    "copywriting-hooks": {
+      "source": "samber/cc-skills",
+      "sourceType": "github",
+      "skillPath": "skills/copywriting-hooks/SKILL.md",
+      "computedHash": "82bba535ad6100933358a6bb145478833f9bfab2a452b2960277cf23610553da",
+      "installMode": "copy"
+    },
+    "image": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/image/SKILL.md",
+      "computedHash": "1e7b42c51ff5edb5b8861ea18fa98118db74a9a03f464db518b50a5cd06e788d",
+      "installMode": "copy"
+    },
+    "linkedin-ghostwriting": {
+      "source": "samber/cc-skills",
+      "sourceType": "github",
+      "skillPath": "skills/linkedin-ghostwriting/SKILL.md",
+      "computedHash": "60c3fbd8f4403570490b449669e99e1102ccde8e1400026d7aa56d983f3d6b38",
+      "installMode": "copy"
+    },
+    "social": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/social/SKILL.md",
+      "computedHash": "034f038c72eedb737cb837eb8fe34deecb89dfd59b2d89ccfa41d983fbe1c622",
+      "installMode": "copy"
+    }
+  }
+}
